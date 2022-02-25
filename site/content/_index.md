@@ -1,5 +1,5 @@
 ---
-title: SOTATEK and WAVEBASE
+title: SOTATEK and TOYOTA
 subtitle: Support sustainable farming while enjoying a cup
 image: /img/home-jumbotron.jpg
 blurb:
