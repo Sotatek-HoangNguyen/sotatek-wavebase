@@ -1,8 +1,5 @@
 backend:
   name: git-gateway
-  repo: Sotatek-HoangNguyen/wave-base.github.io
-  branch: master
-  site_domain: wave-base.github.io
 
 publish_mode: editorial_workflow
 
